@@ -1,0 +1,10 @@
+header {
+  background-color: #1c4586;
+  max-height: 100px;
+  border: 3px solid black;
+  color: white;
+  text-align: center;
+  vertical-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+}
