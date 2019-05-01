@@ -10,7 +10,7 @@ header {
 }
 
 body {
-    font-style: Arial, Helvetica, sans-serif;
+  font-style: Arial, Helvetica, sans-serif;
 }
 
 aside {
@@ -18,12 +18,15 @@ aside {
   padding-left: .5rem;
   margin-left: .5rem;
   float: right;
+  position: relative;
   font-style: Arial, Helvetica, sans-serif;
   color: black;
 }
 
 article {
   padding-left: 300px;
+  float: left;
+  position: relative;
 }
 
 h1 {
