@@ -22,15 +22,10 @@ article {
   padding-left: 300px;
 }
 
-#demobox {
-  background-color:
-  padding: 10px;
-  padding-top: 10px;
-}
-
-article>p {
+h1 {
   border-top-width: 10px;
   border-top-color: #cfe2f2;
+  font-style: Arial, Helvetica, sans-serif;
 }
 
 .footer {
