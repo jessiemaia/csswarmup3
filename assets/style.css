@@ -9,6 +9,10 @@ header {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+    font-style: Arial, Helvetica, sans-serif;
+}
+
 aside {
   width: 40%;
   padding-left: .5rem;
@@ -25,7 +29,6 @@ article {
 h1 {
   border-top-width: 10px;
   border-top-color: #cfe2f2;
-  font-style: Arial, Helvetica, sans-serif;
 }
 
 .footer {
