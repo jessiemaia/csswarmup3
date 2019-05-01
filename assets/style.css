@@ -1,12 +1,14 @@
 header {
   background-color: #1c4586;
-  max-height: 100px;
+  height: 100px;
+  width: 100%;
   border: 3px solid black;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 50px;
+  text-align: center;
+  vertical-align: middle;
 }
 
 header>p {
-  text-align: center;
 }
